@@ -19,6 +19,7 @@ Put the following in a folder on its own
 Navigate to the folder in the terminal and run bash test.sh
 
 After it finishes running, you should see
+
     Erosion Correct
     Dilation Correct
     Opening Correct
