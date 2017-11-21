@@ -30,7 +30,7 @@ def check(lena, eroded, dilated, opened, closed):
     else:
         print("Opening Not Correct")
 
-    if numpy.array_equal(myLenaEroded, cvLenaEroded):
+    if numpy.array_equal(myLenaClosed, cvLenaClosed):
         print("Closing Correct")
     else:
         print("Closing Not Correct")
